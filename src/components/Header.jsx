@@ -6,10 +6,7 @@ import Button from '@mui/material/Button';
 
 
 
-
-
 export default function Header() {
-
 
   return (
     <AppBar
@@ -24,7 +21,7 @@ export default function Header() {
     >
       <Container maxWidth="lg">
         <Button variant="text" size="small">
-          Trucker Reviews
+          Truckstop Command
         </Button>
       </Container>
     </AppBar>
